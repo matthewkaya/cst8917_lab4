@@ -1,0 +1,5 @@
+azure-functions
+flask
+redis
+pymongo[srv]
+python-dotenv
