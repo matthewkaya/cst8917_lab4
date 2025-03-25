@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   flask-app:
     image: cst8917lab4:v1
